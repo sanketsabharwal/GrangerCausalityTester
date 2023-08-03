@@ -10,7 +10,7 @@ The `GrangerCausalityTester` class provides an easy-to-use interface for perform
 
 You can install the required packages using:
 
-\`\`\`use any terminal that suits you
+\`\`\`bash
 pip install pandas statsmodels
 \`\`\`
 
